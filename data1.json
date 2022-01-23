@@ -1,0 +1,9 @@
+{
+  "name": "sachin",
+  "age": "20",
+  "location": "new delhi",
+  "language": ["tamil","kannadam","english"],
+  "school": "hign school",
+  "teacher": ["arun","sathish","hello"],
+  "student": ["1.arunesh","2.kohli","3.kumar"]
+}
