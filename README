@@ -1,0 +1,11 @@
+OUTPUT
+
+
+enter tha wordtechr
+did you mean teacher , enter y for YES,N for NO Y
+arun
+sathish
+hello
+['arun', 'sathish', 'hello']
+
+Process finished with exit code 0
